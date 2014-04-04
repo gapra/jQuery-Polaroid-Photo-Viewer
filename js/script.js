@@ -1,3 +1,6 @@
+/*
+Salam \m/
+*/
 
 google.load("jquery", "1.3.1");
 google.load("jqueryui", "1.7.0");
@@ -85,3 +88,5 @@ google.setOnLoadCallback(function()
 	}
 	
 });
+
+/* Keep \m/ */
